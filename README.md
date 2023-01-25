@@ -66,6 +66,6 @@
     - developer_response- 개발자 응답 텍스트(있는 경우)
     - timestamp_dev_responded- 해당되는 경우 개발자가 응답한 Unix 타임스탬프
     
-  
+
  ## 프로젝트에 대한 자세한 내용
  - [블로그](https://nothing-error.tistory.com/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B3%A0%EC%9D%B8%EB%AC%BC%EC%9D%98-%EC%8A%A4%ED%8C%80-%EA%B2%8C%EC%9E%84%EC%B6%94%EC%B2%9C-1%EA%B0%9C%EC%9A%94)
