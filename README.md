@@ -7,8 +7,9 @@
 ## 💾 Data(api)
 - steam applist
 - steam reviews 
-## 💾 projcet 개요
-![image](https://user-images.githubusercontent.com/88607278/214484062-178fd19c-1abb-4c4c-930a-845a63b5ad54.png)
+## 💾 Projcet 구조
+![image](https://user-images.githubusercontent.com/88607278/214723473-e4e3810f-2190-4220-b99c-8f08b95eabe0.png)
+
 
 
 ## 📚 Tech Stacks
